@@ -266,7 +266,7 @@ main{
 
 .pbutton{
     display: flex;
-    padding: 24px 7px;
+    padding: 20px 7px;
     background: #0077FF;
     color: #fff;
     height: 44px;
